@@ -25,14 +25,14 @@ public class Program extends javax.swing.JFrame {
         String ingredients; 
         String preparation; 
         
-ingredients = (" INGREDIENTS:\n" +
-               "- 1 pkg. (150 g) Kraft Dinner Smart Vegetables\n "+ 
-               "  Macaroni and Cheese\n" +
-               "- 2cups Big-Batch Beef, thawed\n" +
-               "- 1cup Classico di Napoli Tomato\n "+ 
-               "- 1cup Basil Pasta Sauce\n" +
-               "- 1cup Cracker Barrel Shredded\n"+ 
-               "  Light 4 Cheese Italiano Cheese\n ");
+        ingredients = (" INGREDIENTS:\n" +
+                       "- 1 pkg. (150 g) Kraft Dinner Smart Vegetables\n "+ 
+                       "  Macaroni and Cheese\n" +
+                       "- 2cups Big-Batch Beef, thawed\n" +
+                       "- 1cup Classico di Napoli Tomato\n "+ 
+                       "- 1cup Basil Pasta Sauce\n" +
+                       "- 1cup Cracker Barrel Shredded\n"+ 
+                       "  Light 4 Cheese Italiano Cheese\n ");
         
 preparation = (" PREPARATION:\n" +
                "- Prepare Kraft Dinner Smart as directed\n" +
